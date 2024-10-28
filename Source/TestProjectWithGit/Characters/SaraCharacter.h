@@ -15,9 +15,17 @@ public:
 	// Sets default values for this character's properties
 	ASaraCharacter();
 
+
+	// TOTO je na to a tamto
+
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+
+
+
+	// TOTO je na to a tamto
 
 public:	
 	// Called every frame
